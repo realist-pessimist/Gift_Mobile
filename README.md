@@ -11,16 +11,16 @@
 
     * Если QR-код не соответствует  требуемому формату, пользователю будет выведено сообщение об ошибке
     
-         ![Alt Text](https://github.com/jeka1488/Library/blob/master/gif_1.gif)
+         ![Alt Text](https://github.com/realist-pessimist/Gift_Mobile/blob/main/Gif%231.gif)
 
     * Если к QR-коду привязано видео, то его можно скачать во внутреннюю память телефона
     или перейти к просмотру во встроенном видео проигрывателе
     
-         ![Alt Text](https://github.com/jeka1488/Library/blob/master/gif_2.gif)
+         ![Alt Text](https://github.com/realist-pessimist/Gift_Mobile/blob/main/Gif%232.gif)
 
     * Если к QR-коду не привязано видео, то к этому QR коду можно привязать выбранное из галлерии или снятое на камеру видео
     
-         ![Alt Text](https://github.com/jeka1488/Library/blob/master/gif_3.gif)
+         ![Alt Text](https://github.com/realist-pessimist/Gift_Mobile/blob/main/Gif%233.gif)
 
 
 ## Структура проекта
